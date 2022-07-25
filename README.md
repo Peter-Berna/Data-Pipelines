@@ -38,7 +38,6 @@ The dataset is a compilation and aggregation of the yearly World Happiness Repor
 ## How to run the various files
     - Import dataset from 'Input' directory
     - import functions scraper.py, api_extract.py, cleaning.py, merge.py and vizualization.py
-    - You can view the plots as a file in the 'Images' directory 
 
 ## Links
 [Repository](https://github.com/Peter-Berna/shark-attacks-data-cleaning)  
